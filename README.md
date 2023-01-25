@@ -1,2 +1,4 @@
 # effective-doodle
-Projects submission for Udacity Data Scientist Course
+Data Scientist Blog Post
+Purpose: Used Airbnb Boston for travelling, I choose airbnb datasets for experiment.
+
