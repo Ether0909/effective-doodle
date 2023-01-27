@@ -3,4 +3,3 @@ Purpose: curious about the backgroud of developers. I use 2017 stackover flow su
 Questions 1: What are the lcoation of developers globally?
 Question 2: What type are developers?
 Question 3: What are their education backgroud?
-
